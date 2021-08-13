@@ -1,0 +1,8 @@
+{
+  "name": "ts_aliases_atomic_template",
+  "version": "0.0.1",
+  "description": "React Native Template with configured aliases, typescript, atomic structure.",
+  "repository": "git@github.com:dynamichny/ts_aliases_atomic_template.git",
+  "author": "Marcin Pawlicki <marcinpawlicki0@gmail.com>",
+  "license": "MIT"
+}
